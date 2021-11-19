@@ -1,5 +1,7 @@
 # star-wars
 
+一个持续学习的代码仓库。
+
 ## Project setup
 
 ```
@@ -23,6 +25,18 @@ yarn build
 ```
 yarn lint
 ```
+
+## Three
+
+分支作为学习 [Three.js](https://threejs.org/) 的示例仓库。
+
+基础效果
+
+![three01-test](docs/resources/three01.gif)
+
+改进效果
+
+![three02-test](docs/resources/three02.gif)
 
 ## 相关
 
